@@ -3,7 +3,7 @@
 <!-- Header Section -->
 <h1 align="center">
   <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" alt="wave" width="35" height="35">
-  Hey there, I'm Ashen BoY! 
+  Hey there, I'm Minuka! 
   <img src="https://cdn3.emoji.gg/emojis/5042-verified-blue-animated.gif" alt="Verified" width="35" height="35">
 </h1>
 
@@ -41,7 +41,7 @@
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{ashenboy}/count.svg) -->
 
-![](https://komarev.com/ghpvc/?username=Ashenboy&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=minuka05&abbreviated=true)
 
 <h3>🔵💠VS Code work hours💠🔵</h3>
 
@@ -115,19 +115,19 @@
 
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashenboy&theme=radical&show_icons=true&hide_border=true&count_private=true" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minuka05&theme=radical&show_icons=true&hide_border=true&count_private=true" /> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashenboy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashenboy&theme=radical&hide_border=false" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minuka05&theme=radical&hide_border=false" /> </p>
 
 <div align="center">
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashenboy&theme=radical"/> </p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ashenboy&theme=radical&show_icons=true&hide_border=false&count_private=true" /> -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashenboy&theme=radical&show_icons=true&hide_border=false&layout=compact" height="195" /> </p>
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashenboy&theme=radical"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minuka05&theme=radical"/> </p>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=minuka05&theme=radical&show_icons=true&hide_border=false&count_private=true" /> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minuka05&theme=radical&show_icons=true&hide_border=false&layout=compact" height="195" /> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minuka05&theme=radical"/> </p>
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashenboy&radius=16&theme=radical&&hide_border=false&area=true&order=5&height=300"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minuka05&radius=16&theme=radical&&hide_border=false&area=true&order=5&height=300"/>
 </div>
 
 ---
@@ -141,7 +141,7 @@
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="35" height="35"> GitHub Trophies:</h2>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashenboy&theme=radical)](https://github.com/Ashenboy/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=minuka05&theme=radical)](https://github.com/Ashenboy/github-profile-trophy)
 
 </div>
 
@@ -156,13 +156,13 @@
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="35" height="35"> Top Contributed Repo:</h2>
 <div align="center">
  
-![](https://github-contributor-stats.vercel.app/api?username=Ashenboy&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=minuka05&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 </div>
 <!-- <div>
-  <div width="100%" align="center"><a href="https://github.com/Ashenboy/qr-code-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashenboy&repo=qr-code-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ashenboy/Barcode-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashenboy&repo=Barcode-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-  <div width="100%" align="center"><a href="https://github.com/Ashenboy/gpa-calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashenboy&repo=gpa-calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ashenboy/first-contributions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashenboy&repo=first-contributions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <div width="100%" align="center"><a href="https://github.com/Ashenboy/qr-code-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=qr-code-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ashenboy/Barcode-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=Barcode-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+  <div width="100%" align="center"><a href="https://github.com/Ashenboy/gpa-calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=gpa-calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ashenboy/first-contributions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=first-contributions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div> -->

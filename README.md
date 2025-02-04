@@ -111,7 +111,7 @@
 </div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=minuka05&theme=radical&show_icons=true&hide_border=true&count_private=true" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashenboy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=minuka05&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minuka05&theme=radical&hide_border=false" /> </p>
 
 <div align="center">
@@ -130,13 +130,13 @@
 <div align="center">
   
 ***My Contributions*** <img src="https://cdn-icons-png.flaticon.com/512/10645/10645621.png" alt="😢" width="32" height="32"> <br>
-<img src="https://raw.githubusercontent.com/Ashenboy/Ashenboy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/minuka05/minuka05/output/snake.svg" alt="Snake animation" />
 </div>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="35" height="35"> GitHub Trophies:</h2>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minuka05&theme=radical)](https://github.com/Ashenboy/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=minuka05&theme=radical)](https://github.com/minuka05/github-profile-trophy)
 
 </div>
 
@@ -156,8 +156,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 </div>
 <!-- <div>
-  <div width="100%" align="center"><a href="https://github.com/Ashenboy/qr-code-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=qr-code-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ashenboy/Barcode-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=Barcode-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-  <div width="100%" align="center"><a href="https://github.com/Ashenboy/gpa-calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=gpa-calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Ashenboy/first-contributions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=first-contributions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <div width="100%" align="center"><a href="https://github.com/minuka05/qr-code-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=qr-code-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/minuka05/Barcode-Generator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=Barcode-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+  <div width="100%" align="center"><a href="https://github.com/minuka05/gpa-calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=gpa-calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/minuka05/first-contributions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=minuka05&repo=first-contributions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div> -->
@@ -191,16 +191,6 @@ Feel free to reach out to me on different platforms.<br>
 
 </div>
 
-<!-- 📜 Other Section -->
-<h2><img src="https://cdn3.emoji.gg/emojis/5985-discordloading.gif" alt="discord" width="35" height="35"> Discord:</h2>
-
-<p align="center">
-  Connect with me on Discord and see what I'm up to! 🎮<br>
-  <a href="https://discord.com/users/900831592166076496" target="_blank">
-   # <img src="https://lanyard.cnrad.dev/api/1176728729133781049" alt="Discord Presence">
-  </a>
-</p>
-
 <!-- 🎶 Vibing to Section -->
 <!-- <h2><img src="https://cdn3.emoji.gg/emojis/3468-skype-music.gif" alt="vibing" width="35" height="35"> Vibing to:</h2>
 
@@ -216,7 +206,7 @@ Feel free to reach out to me on different platforms.<br>
 
 <p align="center">
   Support my work by buying me a coffee! ☕<br>
-  <a href="https://buymeacoffee.com/Ashenboy" target="_blank">
+  <a href="https://buymeacoffee.com/minuka05" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
 </p> -->
@@ -243,10 +233,10 @@ Feel free to reach out to me on different platforms.<br>
 
 <div align="center">
 
-   ![repo size](https://img.shields.io/github/repo-size/Ashenboy/Ashenboy?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-   ![GitHub forks](https://img.shields.io/github/forks/Ashenboy/Ashenboy?&labelColor=black&color=0fb9b1&style=for-the-badge)
-   ![GitHub stars](https://img.shields.io/github/stars/Ashenboy/Ashenboy?&labelColor=black&color=f7b731&style=for-the-badge)
-   ![GitHub LastCommit](https://img.shields.io/github/last-commit/Ashenboy/Ashenboy?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+   ![repo size](https://img.shields.io/github/repo-size/minuka05/minuka05?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+   ![GitHub forks](https://img.shields.io/github/forks/minuka05/minuka05?&labelColor=black&color=0fb9b1&style=for-the-badge)
+   ![GitHub stars](https://img.shields.io/github/stars/minuka05/minuka05?&labelColor=black&color=f7b731&style=for-the-badge)
+   ![GitHub LastCommit](https://img.shields.io/github/last-commit/minuka05/minuka05?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div>
 
@@ -258,9 +248,9 @@ Feel free to reach out to me on different platforms.<br>
 
 <div align="center">
 
-[![pages-build-deployment](https://github.com/Ashenboy/Ashenboy/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Ashenboy/Ashenboy/actions/workflows/pages/pages-build-deployment)
-[![Generate Snake](https://github.com/Ashenboy/Ashenboy/actions/workflows/snake.yml/badge.svg)](https://github.com/Ashenboy/Ashenboy/actions/workflows/snake.yml)
-[![GitHub-Profile-3D-Contrib](https://github.com/Ashenboy/Ashenboy/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/Ashenboy/Ashenboy/actions/workflows/profile-3d.yml)
+[![pages-build-deployment](https://github.com/minuka05/minuka05/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/minuka05/minuka05/actions/workflows/pages/pages-build-deployment)
+[![Generate Snake](https://github.com/minuka05/minuka05/actions/workflows/snake.yml/badge.svg)](https://github.com/minuka05/minuka05/actions/workflows/snake.yml)
+[![GitHub-Profile-3D-Contrib](https://github.com/minuka05/minuka05/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/minuka05/minuka05/actions/workflows/profile-3d.yml)
 
 </div>
 

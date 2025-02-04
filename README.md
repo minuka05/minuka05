@@ -30,7 +30,7 @@
 ---
 <!-- Personal Info Section -->
 <h4 align="center">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"> Undergraduate | <img src="https://cdn3.emoji.gg/emojis/5982-snowsgiving-partyhouse.gif" alt="house" width="32" height="32"> Sri Lanka | <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/129_Fiverr_logo_logos-256.png" alt="book" width="30" height="30"> Level 2 Seller at Fiverr
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"> Undergraduate | <img src="https://cdn3.emoji.gg/emojis/5982-snowsgiving-partyhouse.gif" alt="house" width="32" height="32"> Sri Lanka
 </h4>
 
 ---
@@ -43,11 +43,6 @@
 
 ![](https://komarev.com/ghpvc/?username=minuka05&abbreviated=true)
 
-<h3>🔵💠VS Code work hours💠🔵</h3>
-
-[![wakatime](https://wakatime.com/badge/user/afeeb5e2-939b-487e-956c-14cbea74ba99.svg)](https://wakatime.com/@ashenboy)
-
-</div>
 
 ---
 <!-- Technologies Section -->

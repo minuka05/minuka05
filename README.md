@@ -197,7 +197,7 @@ Feel free to reach out to me on different platforms.<br>
 <p align="center">
   Connect with me on Discord and see what I'm up to! 🎮<br>
   <a href="https://discord.com/users/900831592166076496" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1176728729133781049" alt="Discord Presence">
+   # <img src="https://lanyard.cnrad.dev/api/1176728729133781049" alt="Discord Presence">
   </a>
 </p>
 

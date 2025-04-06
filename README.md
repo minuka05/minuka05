@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Minuka! 🌐</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/minuka05/minuka05/main/banner.png" alt="Banner" />
-</p>
 
 ---
 

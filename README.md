@@ -31,7 +31,6 @@ As an avid enthusiast, I specialize in the following edge technologies:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx)
 
 ---
